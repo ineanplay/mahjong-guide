@@ -1,0 +1,46 @@
+# Mahjong Beginner and Regional Rules Guide
+
+> Source-linked rules summaries with explicit region, version, and year metadata.
+
+## Rules
+
+- Mahjong Basics for New Players: https://github.com/ineanplay/mahjong-guide/blob/main/docs/00-mahjong-basics.md
+- Chinese Classical Mahjong: Beginner Rules: https://github.com/ineanplay/mahjong-guide/blob/main/docs/01-chinese-classical.md
+- Mahjong Competition Rules (MCR) Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/02-mahjong-competition-rules.md
+- Hong Kong Old Style Mahjong: Beginner Rules: https://github.com/ineanplay/mahjong-guide/blob/main/docs/03-hong-kong-old-style.md
+- Japanese Riichi Mahjong: WRC 2025 Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/04-japanese-riichi-2025.md
+- Japanese Three-Player Mahjong (Sanma) Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/05-japanese-sanma.md
+- American Mah Jongg 2026: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/06-american-mah-jongg-2026.md
+- Taiwanese 16-Tile Mahjong: Beginner Rules: https://github.com/ineanplay/mahjong-guide/blob/main/docs/07-taiwanese-16-tile.md
+- Singapore Mahjong: Beginner Rules: https://github.com/ineanplay/mahjong-guide/blob/main/docs/08-singapore-mahjong.md
+- Malaysian Three-Player Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/09-malaysian-three-player.md
+- Sichuan Bloody Rules Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/10-sichuan-bloody-rules.md
+- Vietnamese Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/11-vietnamese-mahjong.md
+- Zung Jung Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/12-zung-jung.md
+- Filipino Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/13-filipino-mahjong.md
+- Korean Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/14-korean-mahjong.md
+- Chinese Regional Mahjong: Comparison and Table-Rule Checklist: https://github.com/ineanplay/mahjong-guide/blob/main/docs/15-china-regional-comparison.md
+- Guangdong Ji Ping Hu Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/16-guangdong-ji-ping-hu.md
+- Beijing Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/17-beijing-mahjong.md
+- Shanghai Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/18-shanghai-mahjong.md
+- Wuhan Hongzhong Laizi Gang Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/19-wuhan-hongzhong-laizi-gang.md
+- Changsha Mahjong: Beginner Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/20-changsha-mahjong.md
+- Nanchang Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/21-nanchang-mahjong.md
+- Nanjing Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/22-nanjing-mahjong.md
+- Hangzhou Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/23-hangzhou-mahjong.md
+- Fujian Jin Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/24-fujian-jin-mahjong.md
+- Hainan Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/25-hainan-mahjong.md
+- Northeast Push-Down Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/26-northeast-push-down.md
+- Southeast Asian Mahjong: Regional Overview: https://github.com/ineanplay/mahjong-guide/blob/main/docs/27-southeast-asia-overview.md
+- Malaysian Four-Player Mahjong: Beginner Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/28-malaysian-four-player.md
+- Singapore and Malaysia Mahjong Animal Tiles Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/29-singapore-malaysia-animal-tiles.md
+- Mahjong in Thailand: Community Rules Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/30-thai-mahjong.md
+- Mahjong in Indonesia: Community Rules Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/31-indonesian-mahjong.md
+- Mahjong in Brunei: Community Rules Orientation: https://github.com/ineanplay/mahjong-guide/blob/main/docs/32-brunei-mahjong.md
+- Mahjong in Myanmar, Laos, and Cambodia: Local-Table Guide: https://github.com/ineanplay/mahjong-guide/blob/main/docs/33-mainland-southeast-asia-local-tables.md
+
+## Contact
+
+- Website: https://ineanplay.com/
+- WhatsApp: https://wa.me/8617378390199
+- Email: service@ineanplay.com

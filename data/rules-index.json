@@ -1,0 +1,313 @@
+{
+  "updated": "2026-07-11",
+  "scope": "Mahjong rules and beginner guides",
+  "disclaimer": "Local, annual, platform and tournament rules take precedence.",
+  "articles": [
+    {
+      "title": "Mahjong Basics for New Players",
+      "family": "Mahjong",
+      "region": "Global introduction",
+      "version": "Stable concepts; local scoring varies",
+      "summary": "Learn the tiles, hand structure, calls, turn order, and the questions every table must settle before play.",
+      "path": "docs/00-mahjong-basics.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/00-mahjong-basics.md"
+    },
+    {
+      "title": "Chinese Classical Mahjong: Beginner Rules",
+      "family": "Mahjong",
+      "region": "China / historical international play",
+      "version": "Rule family; scoring must be agreed",
+      "summary": "A traditional four-player foundation for learning melds, honors, flowers, and hand scoring.",
+      "path": "docs/01-chinese-classical.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/01-chinese-classical.md"
+    },
+    {
+      "title": "Mahjong Competition Rules (MCR) Beginner Guide",
+      "family": "Mahjong",
+      "region": "International competition",
+      "version": "MCR overview; verify the event rulebook",
+      "summary": "An introduction to the international Chinese competition system and its eight-point minimum.",
+      "path": "docs/02-mahjong-competition-rules.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/02-mahjong-competition-rules.md"
+    },
+    {
+      "title": "Hong Kong Old Style Mahjong: Beginner Rules",
+      "family": "Mahjong",
+      "region": "Hong Kong and Cantonese communities",
+      "version": "Common framework; fan tables vary",
+      "summary": "A fast four-player style built around fan, Flowers, honors, and straightforward hand patterns.",
+      "path": "docs/03-hong-kong-old-style.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/03-hong-kong-old-style.md"
+    },
+    {
+      "title": "Japanese Riichi Mahjong: WRC 2025 Beginner Guide",
+      "family": "Mahjong",
+      "region": "Japan / international riichi",
+      "version": "WRC Rules 2025 baseline",
+      "summary": "Learn yaku, riichi, furiten, dora, calls, and the 2025 World Riichi Championship baseline.",
+      "path": "docs/04-japanese-riichi-2025.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/04-japanese-riichi-2025.md"
+    },
+    {
+      "title": "Japanese Three-Player Mahjong (Sanma) Beginner Guide",
+      "family": "Mahjong",
+      "region": "Japan / online platforms",
+      "version": "Variant family; platform rules vary",
+      "summary": "A three-player riichi variant with a reduced tile set and important rule differences.",
+      "path": "docs/05-japanese-sanma.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/05-japanese-sanma.md"
+    },
+    {
+      "title": "American Mah Jongg 2026: Beginner Guide",
+      "family": "Mahjong",
+      "region": "United States",
+      "version": "2026 NMJL card required",
+      "summary": "Learn the stable American Mah Jongg procedure while using the official 2026 card for current hands and values.",
+      "path": "docs/06-american-mah-jongg-2026.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/06-american-mah-jongg-2026.md"
+    },
+    {
+      "title": "Taiwanese 16-Tile Mahjong: Beginner Rules",
+      "family": "Mahjong",
+      "region": "Taiwan",
+      "version": "Common 16-tile framework; table scoring varies",
+      "summary": "Learn the five-sets-and-a-pair structure used in Taiwanese 16-tile Mahjong.",
+      "path": "docs/07-taiwanese-16-tile.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/07-taiwanese-16-tile.md"
+    },
+    {
+      "title": "Singapore Mahjong: Beginner Rules",
+      "family": "Mahjong",
+      "region": "Singapore",
+      "version": "Common framework; animal and payout rules vary",
+      "summary": "A four-player style often using Flowers, Seasons, Animals, and local limit-hand rules.",
+      "path": "docs/08-singapore-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/08-singapore-mahjong.md"
+    },
+    {
+      "title": "Malaysian Three-Player Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "Malaysia",
+      "version": "Regional family; tile inventory must be agreed",
+      "summary": "An introduction to fast Malaysian three-player tables with reduced tiles and local bonus rules.",
+      "path": "docs/09-malaysian-three-player.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/09-malaysian-three-player.md"
+    },
+    {
+      "title": "Sichuan Bloody Rules Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "Sichuan, China",
+      "version": "Common Bloody Battle framework; scoring varies",
+      "summary": "Learn the missing-suit declaration, suit exchange, and continue-after-win format.",
+      "path": "docs/10-sichuan-bloody-rules.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/10-sichuan-bloody-rules.md"
+    },
+    {
+      "title": "Vietnamese Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "Vietnam",
+      "version": "Regional family; special-tile powers vary",
+      "summary": "A Mahjong family often using extra special tiles beyond the standard 144-tile set.",
+      "path": "docs/11-vietnamese-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/11-vietnamese-mahjong.md"
+    },
+    {
+      "title": "Zung Jung Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "International / Hong Kong origin",
+      "version": "Use the current Zung Jung scoring table",
+      "summary": "A modern scoring system designed to value strategic hand patterns with fewer arbitrary overlaps.",
+      "path": "docs/12-zung-jung.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/12-zung-jung.md"
+    },
+    {
+      "title": "Filipino Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "Philippines",
+      "version": "Regional and household rules vary",
+      "summary": "An introduction to Filipino Mahjong tables, which often use 16-tile hands and local bonus payments.",
+      "path": "docs/13-filipino-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/13-filipino-mahjong.md"
+    },
+    {
+      "title": "Korean Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "Korea",
+      "version": "Regional rules vary; confirm the scoring sheet",
+      "summary": "A concise orientation to Korean Mahjong and its regional differences from Chinese and Japanese rules.",
+      "path": "docs/14-korean-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/14-korean-mahjong.md"
+    },
+    {
+      "title": "Chinese Regional Mahjong: Comparison and Table-Rule Checklist",
+      "family": "Mahjong",
+      "region": "Mainland China regional overview",
+      "version": "Orientation, not a single national ruleset",
+      "summary": "Compare major regional rule families without treating one app, club, or household as the authority for a province.",
+      "path": "docs/15-china-regional-comparison.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/15-china-regional-comparison.md"
+    },
+    {
+      "title": "Guangdong Ji Ping Hu Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Guangdong, China",
+      "version": "Local rule family; fan and payment tables vary",
+      "summary": "Learn the common shape of Guangdong Ji Ping Hu and the options that must be agreed before play.",
+      "path": "docs/16-guangdong-ji-ping-hu.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/16-guangdong-ji-ping-hu.md"
+    },
+    {
+      "title": "Beijing Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Beijing, China",
+      "version": "Local rule family; confirm the host's sheet",
+      "summary": "A practical guide to identifying the Beijing rules in use before learning its local scoring vocabulary.",
+      "path": "docs/17-beijing-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/17-beijing-mahjong.md"
+    },
+    {
+      "title": "Shanghai Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Shanghai, China",
+      "version": "Local variants differ in Flowers and scoring",
+      "summary": "Understand the shared Mahjong core and the local Flower, pattern, and settlement questions for Shanghai tables.",
+      "path": "docs/18-shanghai-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/18-shanghai-mahjong.md"
+    },
+    {
+      "title": "Wuhan Hongzhong Laizi Gang Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "Wuhan and Hubei communities, China",
+      "version": "Common rule family; laizi and scoring details vary",
+      "summary": "Learn the wild-tile concept, red-dragon mechanism, and the restrictions that must be checked at a Wuhan table.",
+      "path": "docs/19-wuhan-hongzhong-laizi-gang.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/19-wuhan-hongzhong-laizi-gang.md"
+    },
+    {
+      "title": "Changsha Mahjong: Beginner Guide",
+      "family": "Mahjong",
+      "region": "Changsha and Hunan communities, China",
+      "version": "Common features documented; exact scoring is table-specific",
+      "summary": "Learn the 108-tile base, opening-pattern checks, and bird-draw settlement commonly associated with Changsha Mahjong.",
+      "path": "docs/20-changsha-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/20-changsha-mahjong.md"
+    },
+    {
+      "title": "Nanchang Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Nanchang and Jiangxi communities, China",
+      "version": "Local wild-tile family; confirm all laizi rules",
+      "summary": "A cautious introduction to Nanchang-style wild tiles, local bonuses, and pre-game decisions.",
+      "path": "docs/21-nanchang-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/21-nanchang-mahjong.md"
+    },
+    {
+      "title": "Nanjing Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Nanjing and Jiangsu communities, China",
+      "version": "Local rule family; special-tile rules vary",
+      "summary": "Identify Nanjing table options involving Flowers, special tiles, winning requirements, and settlement.",
+      "path": "docs/22-nanjing-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/22-nanjing-mahjong.md"
+    },
+    {
+      "title": "Hangzhou Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Hangzhou and Zhejiang communities, China",
+      "version": "Local rule family; scoring sheet required",
+      "summary": "Learn how to approach Hangzhou Mahjong without confusing a city label with one fixed ruleset.",
+      "path": "docs/23-hangzhou-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/23-hangzhou-mahjong.md"
+    },
+    {
+      "title": "Fujian Jin Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Fujian communities, China",
+      "version": "Multiple local Jin systems; no province-wide standard",
+      "summary": "Understand the local Jin or gold-tile idea and why its selection and use must be confirmed for each table.",
+      "path": "docs/24-fujian-jin-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/24-fujian-jin-mahjong.md"
+    },
+    {
+      "title": "Hainan Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Hainan communities, China",
+      "version": "Local variations; verify special tiles and scoring",
+      "summary": "A table-first guide to Hainan Mahjong equipment, local bonuses, and settlement choices.",
+      "path": "docs/25-hainan-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/25-hainan-mahjong.md"
+    },
+    {
+      "title": "Northeast Push-Down Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Northeast China",
+      "version": "Broad local family; city rules differ",
+      "summary": "Learn the fast, simplified character of Push-Down Mahjong and the exact options a host must specify.",
+      "path": "docs/26-northeast-push-down.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/26-northeast-push-down.md"
+    },
+    {
+      "title": "Southeast Asian Mahjong: Regional Overview",
+      "family": "Mahjong",
+      "region": "Southeast Asia",
+      "version": "Comparison of community rule families",
+      "summary": "Compare documented Singaporean, Malaysian, Vietnamese, Filipino, and imported community rules across Southeast Asia.",
+      "path": "docs/27-southeast-asia-overview.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/27-southeast-asia-overview.md"
+    },
+    {
+      "title": "Malaysian Four-Player Mahjong: Beginner Orientation",
+      "family": "Mahjong",
+      "region": "Malaysia",
+      "version": "Community rules vary by language group and location",
+      "summary": "Distinguish Malaysian four-player play from the better-known local three-player family.",
+      "path": "docs/28-malaysian-four-player.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/28-malaysian-four-player.md"
+    },
+    {
+      "title": "Singapore and Malaysia Mahjong Animal Tiles Guide",
+      "family": "Mahjong",
+      "region": "Singapore and Malaysia",
+      "version": "Tile guide; effects and payments are table-specific",
+      "summary": "Identify Cat, Rat, Rooster, Centipede, and other local bonus tiles without assuming universal scoring.",
+      "path": "docs/29-singapore-malaysia-animal-tiles.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/29-singapore-malaysia-animal-tiles.md"
+    },
+    {
+      "title": "Mahjong in Thailand: Community Rules Orientation",
+      "family": "Mahjong",
+      "region": "Thailand",
+      "version": "No single documented national ruleset",
+      "summary": "Identify whether a Thai table uses Chinese-community, Hong Kong, Taiwanese, Japanese, or another imported ruleset.",
+      "path": "docs/30-thai-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/30-thai-mahjong.md"
+    },
+    {
+      "title": "Mahjong in Indonesia: Community Rules Orientation",
+      "family": "Mahjong",
+      "region": "Indonesia",
+      "version": "Community and club rules; no single national standard",
+      "summary": "A practical checklist for identifying the Chinese-Indonesian or imported Mahjong system at a local table.",
+      "path": "docs/31-indonesian-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/31-indonesian-mahjong.md"
+    },
+    {
+      "title": "Mahjong in Brunei: Community Rules Orientation",
+      "family": "Mahjong",
+      "region": "Brunei",
+      "version": "Community rules; no verified unified national code",
+      "summary": "Use equipment and table questions to identify the Malaysian, Singaporean, or Chinese-family rules in play.",
+      "path": "docs/32-brunei-mahjong.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/32-brunei-mahjong.md"
+    },
+    {
+      "title": "Mahjong in Myanmar, Laos, and Cambodia: Local-Table Guide",
+      "family": "Mahjong",
+      "region": "Myanmar, Laos, and Cambodia",
+      "version": "Orientation only; no unified cross-country ruleset",
+      "summary": "A cautious guide for identifying local Chinese-community and imported Mahjong rules where documentation is limited.",
+      "path": "docs/33-mainland-southeast-asia-local-tables.md",
+      "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/33-mainland-southeast-asia-local-tables.md"
+    }
+  ]
+}
