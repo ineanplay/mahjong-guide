@@ -4,11 +4,11 @@
   "disclaimer": "Local, annual, platform and tournament rules take precedence.",
   "articles": [
     {
-      "title": "Mahjong Basics for New Players",
+      "title": "Mahjong Fundamentals: Complete Play Guide",
       "family": "Mahjong",
       "region": "Global introduction",
       "version": "Stable concepts; local scoring varies",
-      "summary": "Learn the tiles, hand structure, calls, turn order, and the questions every table must settle before play.",
+      "summary": "Complete tile inventory, hand formulas, turn flow, claim priority, legality checks, scoring layers, and a worked example.",
       "path": "docs/00-mahjong-basics.md",
       "url": "https://github.com/ineanplay/mahjong-guide/blob/main/docs/00-mahjong-basics.md"
     },

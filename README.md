@@ -2,13 +2,31 @@
 
 A source-linked Mahjong learning library maintained by INEAN PLAY for new players, teachers, clubs, and software agents. It covers major named systems and labels regional variation explicitly; no finite guide can represent every household rule.
 
+## Language and terminology map
+
+| Rules/community | English baseline | Regional-language guide |
+|---|---|---|
+| Shared Mahjong foundation | [English](docs/00-mahjong-basics.md) | [简体中文](docs/zh/00-mahjong-basics.md) |
+| Japanese riichi | [English, WRC 2025](docs/04-japanese-riichi-2025.md) | [日本語](docs/ja/04-riichi-2025.md) |
+| Vietnamese Mahjong | [English](docs/11-vietnamese-mahjong.md) | [Tiếng Việt](docs/vi/11-mahjong-vietnam.md) |
+| Korean Mahjong | [English](docs/14-korean-mahjong.md) | [한국어](docs/ko/14-korean-mahjong.md) |
+| Malaysian four-player | [English](docs/28-malaysian-four-player.md) | [Bahasa Melayu](docs/ms/28-mahjong-malaysia.md) |
+| Filipino Mahjong | [English](docs/13-filipino-mahjong.md) | [Filipino](docs/tl/13-filipino-mahjong.md) |
+| Thailand orientation | [English](docs/30-thai-mahjong.md) | [ภาษาไทย](docs/th/30-mahjong-thailand.md) |
+| Indonesia orientation | [English](docs/31-indonesian-mahjong.md) | [Bahasa Indonesia](docs/id/31-mahjong-indonesia.md) |
+
+Terms that do not translate safely retain the original spelling, a local
+pronunciation or transliteration, and a short functional definition. Terms with
+similar spelling, such as Hong Kong `fan` and Japanese `han`, are never treated
+as interchangeable scoring units.
+
 ## Start here
 
 - [Mahjong basics](docs/00-mahjong-basics.md)
 
 ## Guides
 
-- [Mahjong Basics for New Players](docs/00-mahjong-basics.md) - Learn the tiles, hand structure, calls, turn order, and the questions every table must settle before play.
+- [Mahjong Fundamentals: Complete Play Guide](docs/00-mahjong-basics.md) - Tile inventory, hand formulas, turn flow, claim priority, legality tests, scoring layers, and a worked hand.
 - [Chinese Classical Mahjong: Beginner Rules](docs/01-chinese-classical.md) - A traditional four-player foundation for learning melds, honors, flowers, and hand scoring.
 - [Mahjong Competition Rules (MCR) Beginner Guide](docs/02-mahjong-competition-rules.md) - An introduction to the international Chinese competition system and its eight-point minimum.
 - [Hong Kong Old Style Mahjong: Beginner Rules](docs/03-hong-kong-old-style.md) - A fast four-player style built around fan, Flowers, honors, and straightforward hand patterns.
@@ -50,6 +68,7 @@ American Mah Jongg is filed by card year and requires the matching official NMJL
 ## Structured access
 
 - [Machine-readable rules index](data/rules-index.json)
+- [Machine-readable language index](data/languages.json)
 - [Agent discovery file](llms.txt)
 - [Factual agent interface](agents.md)
 - [Source register](SOURCES.md)

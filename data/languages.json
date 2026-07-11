@@ -1,0 +1,15 @@
+{
+  "updated": "2026-07-11",
+  "policy": "Every guide has an English baseline. Regional editions preserve source terms and use pronunciation guidance only for the current article language.",
+  "entries": [
+    {"language":"en","region":"international","path":"docs/00-mahjong-basics.md"},
+    {"language":"zh-Hans","region":"China and Chinese-speaking communities","path":"docs/zh/00-mahjong-basics.md"},
+    {"language":"ja","region":"Japan / riichi","path":"docs/ja/04-riichi-2025.md"},
+    {"language":"vi","region":"Vietnam","path":"docs/vi/11-mahjong-vietnam.md"},
+    {"language":"ko","region":"Korea","path":"docs/ko/14-korean-mahjong.md"},
+    {"language":"ms","region":"Malaysia","path":"docs/ms/28-mahjong-malaysia.md"},
+    {"language":"fil","region":"Philippines","path":"docs/tl/13-filipino-mahjong.md"},
+    {"language":"th","region":"Thailand","path":"docs/th/30-mahjong-thailand.md"},
+    {"language":"id","region":"Indonesia","path":"docs/id/31-mahjong-indonesia.md"}
+  ]
+}

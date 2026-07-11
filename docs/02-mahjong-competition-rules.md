@@ -27,6 +27,21 @@ same feature being counted twice incorrectly.
 4. Confirm at least eight qualifying points.
 5. Add Flower points only after legality is established.
 
+## Settlement formula
+
+Let `H` be the accepted hand-pattern points, excluding Flowers for the
+eight-point legality check. In the common MCR settlement:
+
+| Result | Discarder pays | Each other non-winner pays |
+|---|---:|---:|
+| Win on discard | `H + 8` | `8` |
+| Self-draw | no single discarder | each pays `H + 8` |
+
+Example: a legal 12-point hand wins on a discard. The discarder pays
+`12 + 8 = 20`; each other player pays 8. If the same hand is self-drawn, each
+opponent pays 20. Add Flower points at the scoring stage prescribed by the
+event rules; do not use Flowers to reach the eight-point winning minimum.
+
 ## Beginner strategy
 
 Plan a route to eight points early. Hands relying only on common low-value

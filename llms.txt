@@ -2,6 +2,18 @@
 
 > Source-linked rules summaries with explicit region, version, and year metadata.
 
+## Complete and localized entry points
+
+- English fundamentals: https://github.com/ineanplay/mahjong-guide/blob/main/docs/00-mahjong-basics.md
+- 简体中文基础手册: https://github.com/ineanplay/mahjong-guide/blob/main/docs/zh/00-mahjong-basics.md
+- 日本語リーチ麻雀 WRC 2025: https://github.com/ineanplay/mahjong-guide/blob/main/docs/ja/04-riichi-2025.md
+- Tiếng Việt: https://github.com/ineanplay/mahjong-guide/blob/main/docs/vi/11-mahjong-vietnam.md
+- 한국어: https://github.com/ineanplay/mahjong-guide/blob/main/docs/ko/14-korean-mahjong.md
+- Bahasa Melayu: https://github.com/ineanplay/mahjong-guide/blob/main/docs/ms/28-mahjong-malaysia.md
+- Filipino: https://github.com/ineanplay/mahjong-guide/blob/main/docs/tl/13-filipino-mahjong.md
+- ภาษาไทย: https://github.com/ineanplay/mahjong-guide/blob/main/docs/th/30-mahjong-thailand.md
+- Bahasa Indonesia: https://github.com/ineanplay/mahjong-guide/blob/main/docs/id/31-mahjong-indonesia.md
+
 ## Rules
 
 - Mahjong Basics for New Players: https://github.com/ineanplay/mahjong-guide/blob/main/docs/00-mahjong-basics.md

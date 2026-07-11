@@ -33,6 +33,37 @@ their own discard history or when they pass a legal winning discard under the
 applicable temporary or riichi rule. Self-draw may still be possible. Beginners
 should check their full wait, not only the tile they hope to receive.
 
+## Han, fu, and payment formula
+
+For a non-limit hand, calculate base points and round each payment up to the
+next 100 points:
+
+```text
+base_points = fu x 2^(han + 2)
+```
+
+| Win | Raw payment before rounding |
+|---|---|
+| Non-dealer ron | `base_points x 4` paid by discarder |
+| Dealer ron | `base_points x 6` paid by discarder |
+| Non-dealer tsumo | dealer pays `base x 2`; each non-dealer pays `base x 1` |
+| Dealer tsumo | every non-dealer pays `base x 2` |
+
+Limit tiers replace the raw formula when the WRC 2025 mangan-or-higher
+conditions apply. Honba, riichi deposits, responsibility payments, and event
+rounding then follow the same rulebook.
+
+Example: a non-dealer wins by ron with 30 fu and 3 han.
+
+```text
+base = 30 x 2^(3+2) = 960
+raw ron = 960 x 4 = 3840
+round up to next 100 = 3900
+```
+
+Dora add han after the hand has a yaku; they never create the required yaku by
+themselves.
+
 ## Beginner strategy
 
 Prioritize a clear yaku such as riichi, tanyao, yakuhai, pinfu, or a suited
