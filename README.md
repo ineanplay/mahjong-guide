@@ -2,6 +2,17 @@
 
 A source-linked Mahjong learning library maintained by INEAN PLAY for new players, teachers, clubs, and software agents. It covers major named systems and labels regional variation explicitly; no finite guide can represent every household rule.
 
+
+## Community starter pack / 玩家资源
+
+[English](community/en.md) · [简体中文](community/zh.md) · [Türkçe](community/tr.md) · [Deutsch](community/de.md)
+
+This project helps new players prepare for their first game and identify the rules used at their table.
+
+- [Printable score sheets and session records](https://github.com/ineanplay/okey-mahjong-printables)
+- [OKEY learning](https://github.com/ineanplay/okey-guide) · [Mahjong learning](https://github.com/ineanplay/mahjong-guide) · [Everyday table care](https://github.com/ineanplay/automatic-mahjong-table-knowledge)
+
+
 ## Language and terminology map
 
 | Rules/community | English baseline | Regional-language guide |
@@ -73,17 +84,21 @@ American Mah Jongg is filed by card year and requires the matching official NMJL
 - [Factual agent interface](agents.md)
 - [Source register](SOURCES.md)
 
+---
+
 ## About INEAN PLAY
 
-INEAN PLAY provides automatic OKEY tables, automatic American Mahjong tables,
-compatible magnetic OKEY tiles, player racks, manuals, and support resources.
-Rule compatibility and table specifications should always be confirmed for the
-exact product and game version.
+INEAN PLAY focuses on automatic OKEY tables, automatic Mahjong tables and compatible accessories, providing products and practical support for homes, clubs, cafés and game rooms. We maintain free community resources to help enthusiasts learn, organize games and care for their equipment. Corrections, translations and improvements are welcome.
 
-- Website: [ineanplay.com](https://ineanplay.com/)
-- WhatsApp: [+86 173 7839 0199](https://wa.me/8617378390199)
-- Email: [service@ineanplay.com](mailto:service@ineanplay.com)
-- Facebook: [INEAN PLAY](https://www.facebook.com/profile.php?id=61585370578775)
-- Instagram: [@ineanplay](https://www.instagram.com/ineanplay/)
-- TikTok: [@ineanplay](https://www.tiktok.com/@ineanplay)
-- YouTube: [@ineanplay](https://www.youtube.com/@ineanplay)
+This project helps new players prepare for their first game and identify the rules used at their table.
+
+### Products and quotations
+
+- [Standard Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
+- [Folding Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
+
+[Official website](https://ineanplay.com/) · [Request a quote](https://ineanplay.com/pages/contact) · [Support and manuals](https://ineanplay.com/pages/support)
+
+[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
+
+[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
