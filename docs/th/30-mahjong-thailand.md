@@ -30,6 +30,3 @@ flowchart LR
 เจ้ามือ การเสมอ และตัวอย่างการจ่ายคะแนนหนึ่งมือเต็ม
 
 แหล่งข้อมูล: [Pagat Mahjong](https://www.pagat.com/rummy/mahjong.html).
-
-INEAN PLAY: [ineanplay.com](https://ineanplay.com/) · [WhatsApp](https://wa.me/8617378390199)
-

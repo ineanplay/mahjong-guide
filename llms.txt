@@ -63,3 +63,9 @@
 - Türkçe: https://github.com/ineanplay/mahjong-guide/blob/main/community/tr.md
 - Deutsch: https://github.com/ineanplay/mahjong-guide/blob/main/community/de.md
 - Printables: https://github.com/ineanplay/okey-mahjong-printables
+
+## Same-language practical lessons
+- English: https://github.com/ineanplay/mahjong-guide/blob/main/learn/en.md
+- 简体中文: https://github.com/ineanplay/mahjong-guide/blob/main/learn/zh.md
+- Türkçe: https://github.com/ineanplay/mahjong-guide/blob/main/learn/tr.md
+- Deutsch: https://github.com/ineanplay/mahjong-guide/blob/main/learn/de.md

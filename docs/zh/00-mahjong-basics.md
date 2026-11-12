@@ -145,7 +145,3 @@ flowchart TD
 来源：[Pagat Mahjong](https://www.pagat.com/rummy/mahjong.html)、
 [World Riichi Championship](https://www.worldriichi.org/wrc-rules)、
 [National Mah Jongg League](https://www.nationalmahjonggleague.org/)。
-
-INEAN PLAY：[官网](https://ineanplay.com/) ·
-[WhatsApp](https://wa.me/8617378390199) ·
-[service@ineanplay.com](mailto:service@ineanplay.com)

@@ -6,14 +6,15 @@
 
 ## 选择学习路线
 
-| 路线 | 首先确认 | 继续阅读 |
-|---|---|---|
-| 日本立直 | 明确规则版本；至少一个役；只有宝牌不构成役 | WRC 2025 入门 |
-| 香港玩法 | 牌桌最低番数及结算表 | 香港麻将指南 |
-| 美式麻将 | 采用哪个组织的规则、哪一年及对应正版牌例卡 | 美式麻将指南 |
-| 台湾十六张 | 手牌数不同；常规结构为五组面子加一对将 | 台湾麻将指南 |
+| 路线 | 首先确认 |
+|---|---|
+| 日本立直 | 明确规则版本；至少一个役；只有宝牌不构成役 |
+| 香港玩法 | 牌桌最低番数及结算表 |
+| 美式麻将 | 采用哪个组织的规则、哪一年及对应正版牌例卡 |
+| 台湾十六张 | 手牌数不同；常规结构为五组面子加一对将 |
 
-其他地区玩法见仓库目录。先定路线，再选牌和发牌。
+先完成下方的逐步练习，它包含一场规则明确的教学牌局；各地区参考资料是之后选读的背景。
+
 
 ## 学会基础组合
 
@@ -45,34 +46,16 @@
 
 使用可打印麻将记录表登记约定的分数变动。立直供托等公共积分应与各玩家分数一起登记；表格本身不计算牌型价值。
 
-## 继续阅读与下载
+## 学习资料与打印表
 
-- [Mahjong basics](../docs/00-mahjong-basics.md)
-- [WRC 2025 riichi](../docs/04-japanese-riichi-2025.md)
-- [Hong Kong](../docs/03-hong-kong-old-style.md)
-- [American Mah Jongg](../docs/06-american-mah-jongg-2026.md)
-- [Taiwan](../docs/07-taiwanese-16-tile.md)
-- [World Riichi Championship: rules and clarifications](https://www.worldriichi.org/wrc-rules)
-- [National Mah Jongg League: official cards](https://www.nationalmahjonggleague.org/store.aspx)
-- [PDF: 简体中文](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-zh.pdf)
+- [逐步练习与完整示例](../learn/zh.md)
+- [填表方法与已填写示例](https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/zh.md)
+- [下载中文 PDF（5页）](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-zh.pdf)
+- [预览中文 PDF](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-zh.pdf)
 
-2026-11-12 · [Contribute](../CONTRIBUTING.md)
+## 规则来源与核对资料（选读）
 
----
+以下外部资料仅供核对规则依据；完成上面的练习或下载无需打开这些网站。链接已标明目的地及语言。
 
-## 关于 INEAN PLAY
-
-INEAN PLAY 专注于自动 OKEY 桌、自动麻将桌及相关配件，为家庭、俱乐部、咖啡馆和游戏室提供产品与使用支持。我们维护这些免费社区资源，帮助爱好者学习玩法、组织牌局和做好日常保养，欢迎大家提出纠错、翻译和改进建议。
-
-本项目帮助新玩家准备第一场牌局，并辨明牌桌采用的具体规则。
-
-### 产品与询价
-
-- [标准款自动麻将桌](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
-- [折叠款自动麻将桌](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
-
-[官方网站](https://ineanplay.com/) · [产品询价](https://ineanplay.com/pages/contact) · [支持与说明书](https://ineanplay.com/pages/support)
-
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [World Riichi Championship (英语；外部网站)](https://www.worldriichi.org/wrc-rules)
+- [National Mah Jongg League (英语；外部网站)](https://www.nationalmahjonggleague.org/store.aspx)

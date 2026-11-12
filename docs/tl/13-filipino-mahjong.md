@@ -31,5 +31,3 @@ Hindi iisa ang scoring ng lahat ng Filipino table. Linawin ang Flower, special
 hands, agarang bayad, chow direction, self-draw, dealer at draw settlement.
 
 Source: [Pagat Mahjong](https://www.pagat.com/rummy/mahjong.html).
-
-INEAN PLAY: [ineanplay.com](https://ineanplay.com/) · [WhatsApp](https://wa.me/8617378390199)

@@ -6,14 +6,15 @@ Start by naming the rules. Mahjong includes several related games; a tile shape 
 
 ## Choose a learning route
 
-| Route | First thing to check | Continue with |
-|---|---|---|
-| Japanese riichi | Named rulebook; at least one yaku; dora alone is not a yaku | WRC 2025 introduction |
-| Hong Kong style | The host's minimum fan and payment table | Hong Kong guide |
-| American Mah Jongg | League, card year and the actual authorized card | American guide |
-| Taiwanese 16-tile | Different hand size; commonly five groups and a pair | Taiwanese guide |
+| Route | First thing to check |
+|---|---|
+| Japanese riichi | Named rulebook; at least one yaku; dora alone is not a yaku |
+| Hong Kong style | The host's minimum fan and payment table |
+| American Mah Jongg | League, card year and the actual authorized card |
+| Taiwanese 16-tile | Different hand size; commonly five groups and a pair |
 
-Other regional routes are in the repository index. Agree on your route before selecting tiles or dealing.
+Start with the step-by-step lesson below. It includes a complete teaching exercise; the regional reference library is optional background.
+
 
 ## Learn the building blocks
 
@@ -45,34 +46,16 @@ Record the rulebook/card year, tile selection, starting points, minimum winning 
 
 Use the printable Mahjong ledger for agreed score changes. For riichi deposits, track the table pool as well as player balances. The form does not calculate hand values.
 
-## Continue learning and download
+## Learning materials and printables
 
-- [Mahjong basics](../docs/00-mahjong-basics.md)
-- [WRC 2025 riichi](../docs/04-japanese-riichi-2025.md)
-- [Hong Kong](../docs/03-hong-kong-old-style.md)
-- [American Mah Jongg](../docs/06-american-mah-jongg-2026.md)
-- [Taiwan](../docs/07-taiwanese-16-tile.md)
-- [World Riichi Championship: rules and clarifications](https://www.worldriichi.org/wrc-rules)
-- [National Mah Jongg League: official cards](https://www.nationalmahjonggleague.org/store.aspx)
-- [PDF: English](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-en.pdf)
+- [Step-by-step lesson and worked examples](../learn/en.md)
+- [How to fill in the forms, with examples](https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/en.md)
+- [Download the English PDF (5 pages)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-en.pdf)
+- [Preview the English PDF](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-en.pdf)
 
-2026-11-12 · [Contribute](../CONTRIBUTING.md)
+## Sources and rule references (optional)
 
----
+These external references document the rule background. They are not required for the lesson or downloads above. Language and destination are shown before you leave this project.
 
-## About INEAN PLAY
-
-INEAN PLAY focuses on automatic OKEY tables, automatic Mahjong tables and compatible accessories, providing products and practical support for homes, clubs, cafés and game rooms. We maintain free community resources to help enthusiasts learn, organize games and care for their equipment. Corrections, translations and improvements are welcome.
-
-This project helps new players prepare for their first game and identify the rules used at their table.
-
-### Products and quotations
-
-- [Standard Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
-- [Folding Mahjong table](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
-
-[Official website](https://ineanplay.com/) · [Request a quote](https://ineanplay.com/pages/contact) · [Support and manuals](https://ineanplay.com/pages/support)
-
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [World Riichi Championship (English; external website)](https://www.worldriichi.org/wrc-rules)
+- [National Mah Jongg League (English; external website)](https://www.nationalmahjonggleague.org/store.aspx)

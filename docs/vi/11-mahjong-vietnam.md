@@ -41,6 +41,3 @@ flowchart LR
 | Thanh toán | tự rút, người bỏ quân, nhà cái và hòa |
 
 Nguồn tổng quan: [Pagat Mahjong](https://www.pagat.com/rummy/mahjong.html).
-
-INEAN PLAY: [ineanplay.com](https://ineanplay.com/) · [WhatsApp](https://wa.me/8617378390199)
-

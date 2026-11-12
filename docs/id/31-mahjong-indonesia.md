@@ -31,6 +31,3 @@ Catat sebelum bermain: ubin yang digunakan, Flower/bonus, arah panggilan,
 minimum fan, aturan menang ganda, dealer, seri, dan contoh pembayaran lengkap.
 
 Sumber: [Pagat Mahjong](https://www.pagat.com/rummy/mahjong.html).
-
-INEAN PLAY: [ineanplay.com](https://ineanplay.com/) · [WhatsApp](https://wa.me/8617378390199)
-

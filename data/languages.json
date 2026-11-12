@@ -68,5 +68,26 @@
         "path": "community/de.md"
       }
     ]
+  },
+  "practical_lessons": {
+    "updated": "2026-11-12",
+    "entries": [
+      {
+        "language": "en",
+        "path": "learn/en.md"
+      },
+      {
+        "language": "zh",
+        "path": "learn/zh.md"
+      },
+      {
+        "language": "tr",
+        "path": "learn/tr.md"
+      },
+      {
+        "language": "de",
+        "path": "learn/de.md"
+      }
+    ]
   }
 }

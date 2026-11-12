@@ -35,6 +35,3 @@ multi-win, dealer dan maksud setiap jubin bonus.
 
 Sumber: [Mahjong Huat](https://www.mahjonghuat.com/rules),
 [Animal tiles](https://promlogo.com/mahjong-animal-tiles-variants-of-mahjong/).
-
-INEAN PLAY: [ineanplay.com](https://ineanplay.com/) · [WhatsApp](https://wa.me/8617378390199)
-

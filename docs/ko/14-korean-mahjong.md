@@ -33,6 +33,3 @@ flowchart LR
 정산을 기록하십시오.
 
 출처: [Pagat Mahjong](https://www.pagat.com/rummy/mahjong.html).
-
-INEAN PLAY: [ineanplay.com](https://ineanplay.com/) · [WhatsApp](https://wa.me/8617378390199)
-

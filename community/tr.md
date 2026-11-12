@@ -6,14 +6,15 @@
 
 ## Öğrenme yolunu seçin
 
-| Yol | Önce kontrol edin | Devam kaynağı |
-|---|---|---|
-| Japon riichi | Kural sürümü; en az bir yaku; dora tek başına yaku değildir | WRC 2025 rehberi |
-| Hong Kong | Masanın asgari fan değeri ve ödeme tablosu | Hong Kong rehberi |
-| Amerikan Mah Jongg | Lig, kart yılı ve o yıla ait yetkili kart | Amerikan rehberi |
-| Tayvan 16 taş | Farklı el büyüklüğü; genellikle beş grup ve bir çift | Tayvan rehberi |
+| Yol | Önce kontrol edin |
+|---|---|
+| Japon riichi | Kural sürümü; en az bir yaku; dora tek başına yaku değildir |
+| Hong Kong | Masanın asgari fan değeri ve ödeme tablosu |
+| Amerikan Mah Jongg | Lig, kart yılı ve o yıla ait yetkili kart |
+| Tayvan 16 taş | Farklı el büyüklüğü; genellikle beş grup ve bir çift |
 
-Diğer bölgesel yollar depo dizinindedir. Taşları seçmeden ve dağıtmadan önce oyunu belirleyin.
+Önce aşağıdaki adım adım dersi yapın. Tam bir öğretici alıştırma içerir; bölgesel kaynaklar daha sonra isteğe bağlıdır.
+
 
 ## Temel yapılar
 
@@ -45,34 +46,16 @@ Kural kitabı/kart yılı, taş seçimi, başlangıç puanları, kazanma eşiği
 
 Mahjong kayıt formunda kararlaştırılmış puan değişimlerini yazın. Riichi depozitoları için oyuncu bakiyeleriyle birlikte masa havuzunu da kaydedin. Form el değerini hesaplamaz.
 
-## Devam kaynakları ve indirme
+## Öğrenme kaynakları ve formlar
 
-- [Mahjong basics](../docs/00-mahjong-basics.md)
-- [WRC 2025 riichi](../docs/04-japanese-riichi-2025.md)
-- [Hong Kong](../docs/03-hong-kong-old-style.md)
-- [American Mah Jongg](../docs/06-american-mah-jongg-2026.md)
-- [Taiwan](../docs/07-taiwanese-16-tile.md)
-- [World Riichi Championship: rules and clarifications](https://www.worldriichi.org/wrc-rules)
-- [National Mah Jongg League: official cards](https://www.nationalmahjonggleague.org/store.aspx)
-- [PDF: Türkçe](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-tr.pdf)
+- [Adım adım alıştırmalar ve örnekler](../learn/tr.md)
+- [Form doldurma ve tamamlanmış örnekler](https://github.com/ineanplay/okey-mahjong-printables/blob/main/docs/tr.md)
+- [Türkçe PDF indir (5 sayfa)](https://github.com/ineanplay/okey-mahjong-printables/raw/refs/heads/main/output/pdf/game-night-pack-tr.pdf)
+- [Türkçe PDF önizlemesi](https://github.com/ineanplay/okey-mahjong-printables/blob/main/output/pdf/game-night-pack-tr.pdf)
 
-2026-11-12 · [Contribute](../CONTRIBUTING.md)
+## Kural kaynakları (isteğe bağlı)
 
----
+Bu dış kaynaklar kuralları karşılaştırmak içindir. Yukarıdaki ders veya indirme için açmanız gerekmez. Hedef site ve dil bağlantıda belirtilmiştir.
 
-## INEAN PLAY hakkında
-
-INEAN PLAY; evler, kulüpler, kafeler ve oyun salonları için otomatik OKEY masaları, otomatik mahjong masaları ve uyumlu aksesuarlar sunar, ürün kullanımı konusunda destek sağlar. Oyunseverlerin kuralları öğrenmesine, oyun buluşmaları düzenlemesine ve ekipmanlarının bakımını yapmasına yardımcı olmak için ücretsiz topluluk kaynakları hazırlıyoruz. Düzeltme, çeviri ve geliştirme önerilerinizi bekliyoruz.
-
-Bu proje, yeni oyuncuların ilk oyunlarına hazırlanmasına ve masada geçerli kuralları belirlemesine yardımcı olur.
-
-### Ürünler ve teklifler
-
-- [Standart mahjong masası](https://ineanplay.com/products/inean-automatic-mahjong-table-standard)
-- [Katlanır mahjong masası](https://ineanplay.com/products/inean-automatic-mahjong-table-folding)
-
-[Resmi web sitesi](https://ineanplay.com/) · [Teklif isteyin](https://ineanplay.com/pages/contact) · [Destek ve kılavuzlar](https://ineanplay.com/pages/support)
-
-[service@ineanplay.com](mailto:service@ineanplay.com) · [WhatsApp +86 173 7839 0199](https://wa.me/8617378390199)
-
-[Facebook](https://www.facebook.com/profile.php?id=61585370578775) · [Instagram](https://www.instagram.com/ineanplay/) · [TikTok](https://www.tiktok.com/@ineanplay) · [YouTube](https://www.youtube.com/@ineanplay)
+- [World Riichi Championship (İngilizce; dış site)](https://www.worldriichi.org/wrc-rules)
+- [National Mah Jongg League (İngilizce; dış site)](https://www.nationalmahjonggleague.org/store.aspx)
